@@ -22,3 +22,18 @@ Serialization is basically like turning a bunch of objects (like `Student`) into
 
 ## 💻 Example Output
 
+Enter the filename to save student records: students.txt
+Student records saved successfully.
+Student records loaded successfully.
+
+Student Averages:
+Alice: 89.00
+Bob: 83.67
+Charlie: 89.33
+David: 75.00
+Eva: 89.67
+Frank: 83.00
+Grace: 95.00
+Hank: 65.00
+Ivy: 87.67
+Jack: 77.67
