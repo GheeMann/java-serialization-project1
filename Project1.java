@@ -4,7 +4,7 @@
 import java.io.*;
 import java.util.Scanner;
 
-// Provided Data from professor
+// Provided Data from Professor
 class Student implements Serializable {
     private static final long serialVersionUID = 1L;
     private String name;
@@ -34,7 +34,7 @@ public class Project1 {
 
         System.out.print("Enter the filename to save student records: ");
         String filename = scanner.nextLine();
-        // Provided Data from professor
+        // Provided Data from Professor
         Student[] students = {
             new Student("Alice", new int[] {85, 90, 92}),
             new Student("Bob", new int[] {78, 85, 88}),
